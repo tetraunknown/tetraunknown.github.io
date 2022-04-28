@@ -1,0 +1,16 @@
+body {
+		background-color: blue;
+		color: white;
+}
+
+body h1 {
+	color: cyan;
+}
+
+a {
+	color: #00FF00;
+}
+
+p {
+	margin-bottom: 60px;
+}
